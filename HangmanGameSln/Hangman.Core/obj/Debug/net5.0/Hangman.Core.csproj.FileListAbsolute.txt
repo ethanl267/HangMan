@@ -1,0 +1,14 @@
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\bin\Debug\net5.0\Hangman.Core.deps.json
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\bin\Debug\net5.0\Hangman.Core.dll
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\bin\Debug\net5.0\Hangman.Core.pdb
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\bin\Debug\net5.0\HangmanRenderer.dll
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman.Core.csproj.AssemblyReference.cache
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman.Core.AssemblyInfoInputs.cache
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman.Core.AssemblyInfo.cs
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman.Core.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman..08BD5E72.Up2Date
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman.Core.dll
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\refint\Hangman.Core.dll
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\Hangman.Core.pdb
+C:\Users\user-pc\Documents\GitHub\HangmanGameSln\Hangman.Core\obj\Debug\net5.0\ref\Hangman.Core.dll

@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HangmanGameConsole/1.0.0": {
+        "dependencies": {
+          "Hangman.Core": "1.0.0",
+          "HangmanRenderer": "1.0.0.0"
+        },
+        "runtime": {
+          "HangmanGameConsole.dll": {}
+        }
+      },
+      "Hangman.Core/1.0.0": {
+        "runtime": {
+          "Hangman.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "HangmanRenderer/1.0.0.0": {
+        "runtime": {
+          "HangmanRenderer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HangmanGameConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hangman.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HangmanRenderer/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
