@@ -9,7 +9,7 @@ namespace Hangman.Core.Game
         private string SecretWord = "Occupation";
         private char[] lettersOfWord;
         private bool[] guessLetters;
-        private int attempts = 5;
+        private int attempts = 6;
         private bool wordComplete = false;
         private char[] correctGuesses;
 
@@ -63,17 +63,26 @@ namespace Hangman.Core.Game
 
                 wordComplete = Array.TrueForAll(guessLetters, b => b);
 
-                if (wordComplete)
-                {
-                    Console.WriteLine("Congratulations! You guessed the word!");
-                }
-                else if (attempts == 0)
-                {
-                    Console.WriteLine($"Game Over! The word was: {SecretWord}");
-                }
-
-            }
   
+            }
+
+
+            if (wordComplete)
+            {
+                Console.WriteLine("Congratulations! You guessed the word!");
+            }
+            else if (attempts == 0)
+            {
+                Console.WriteLine($"Game Over! The word was: {SecretWord}");
+            }
+
+
+            _renderer.Render(5, 5, attempts);
+            Console.SetCursorPosition(0, 13);
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.Write("Your current guess: ");
+            Console.WriteLine(new string(correctGuesses));
+
         }
 
     }

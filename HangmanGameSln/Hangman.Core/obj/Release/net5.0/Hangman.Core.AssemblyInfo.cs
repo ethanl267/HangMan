@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hangman.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eeb883b52048f5d9a03861acfcb954107ca0004")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hangman.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hangman.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
